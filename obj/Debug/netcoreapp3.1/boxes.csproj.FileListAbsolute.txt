@@ -1,0 +1,13 @@
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\obj\Debug\netcoreapp3.1\boxes.csprojAssemblyReference.cache
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\obj\Debug\netcoreapp3.1\boxes.AssemblyInfoInputs.cache
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\obj\Debug\netcoreapp3.1\boxes.AssemblyInfo.cs
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\obj\Debug\netcoreapp3.1\boxes.csproj.CoreCompileInputs.cache
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\bin\Debug\netcoreapp3.1\boxes.exe
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\bin\Debug\netcoreapp3.1\boxes.deps.json
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\bin\Debug\netcoreapp3.1\boxes.runtimeconfig.json
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\bin\Debug\netcoreapp3.1\boxes.runtimeconfig.dev.json
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\bin\Debug\netcoreapp3.1\boxes.dll
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\bin\Debug\netcoreapp3.1\boxes.pdb
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\obj\Debug\netcoreapp3.1\boxes.dll
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\obj\Debug\netcoreapp3.1\boxes.pdb
+C:\Users\mdcli\Documents\Coding_Dojo\C#\boxes\obj\Debug\netcoreapp3.1\boxes.genruntimeconfig.cache
